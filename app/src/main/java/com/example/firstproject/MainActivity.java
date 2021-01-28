@@ -58,8 +58,8 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("nama_key", txtNama.getText());
                 intent.putExtra("alamat_key", txtAlamat.getText());
                 startActivity(intent);
-//                finish();
-//                onDestroy();
+                //finish();
+                //onDestroy();
 
                 //cuma untuk test
             }
